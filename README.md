@@ -1,4 +1,3 @@
-# cmps285-spring2020-group1
 
 ## Orchestra Manager
 
