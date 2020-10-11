@@ -1,5 +1,5 @@
 
-## Orchestra Manager (reuploaded)
+## Orchestra Manager (re-uploaded)
 
 Orchestra Manager is an app designed to make musicians lives easier.  <br />
 
