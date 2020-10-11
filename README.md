@@ -2,6 +2,7 @@
 ## Orchestra Manager (re-uploaded)
 
 Orchestra Manager is an app designed to make musicians lives easier.  <br />
+Create ensembles, assign instruments to members, send sheet music.   <br />
 
 To run this project, follow the instructions below. <br />
 
